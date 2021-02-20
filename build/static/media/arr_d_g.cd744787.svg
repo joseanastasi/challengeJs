@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="11px" viewBox="0 0 18 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path fill="#A8A8A8" d="M4.49345988,5.67731252 C4.16884671,5.34898232 4.16884671,4.81853715 4.49345988,4.48935414 L12.1976124,-3.31040707 C12.6662207,-3.78541986 13.4286454,-3.78541986 13.898086,-3.31040707 C14.3666943,-2.83539428 14.3666943,-2.0644579 13.898086,-1.58944511 L7.30760635,5.08375974 L13.898086,11.755259 C14.3666943,12.2311246 14.3666943,13.0020609 13.898086,13.4770737 C13.4286454,13.9520865 12.6662207,13.9520865 12.1976124,13.4770737 L4.49345988,5.67731252 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Chevron" fill="#4A4A4A" transform="translate(9.250000, 5.083333) rotate(270.000000) translate(-9.250000, -5.083333) " xlink:href="#path-1"></use>
+    </g>
+</svg>

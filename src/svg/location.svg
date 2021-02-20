@@ -1,0 +1,12 @@
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <polygon id="location_path" points="23.4565792 10.2504696 10.25 16.7064324 10.25 16.999912 16.9994424 16.999912 16.9994424 23.7499413 17.2940958 23.7499413 23.7494717 10.5433621 23.7494717 10.2504696"></polygon>
+    </defs>
+    <g id="Screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="24.01_Werkstatt_Termin_Detail" transform="translate(-252.000000, -420.000000)">
+            <g id="Navigation" transform="translate(242.000000, 410.000000)">
+                <use fill="#0F556D" data-fillchange xlink:href="#location_path"></use>
+            </g>
+        </g>
+    </g>
+</svg>
